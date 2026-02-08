@@ -13,6 +13,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=24&pause=0&color=F7F7F7&width=435&lines=;Najmi+Faza;Informatics+Student;Web+Developer;Tech+Enthusiast" alt="Dynamic Part" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=24&duration=2000&pause=1000&color=F7F7F7&repeat=false&width=195&lines=Hi+There+👋🏻,+Im&v=1" alt="Fixed Part" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=24&pause=2000&color=F7F7F7&width=435&lines=;Najmi+Faza;Informatics+Student;Web+Developer;Tech+Enthusiast&v=1" alt="Dynamic Part" />
+</p>
+
 Seorang mahasiswa Informatika di **Universitas Jenderal Soedirman** yang meminati pengembangan sistem yang memberi dampak sosial dan memberdayakan pendidikan. Berpengalaman dalam pengembangan web (Web Development), produksi konten digital, dan operasional media institusi.
 
 ---
