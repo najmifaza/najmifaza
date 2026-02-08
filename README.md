@@ -58,8 +58,8 @@ Seorang mahasiswa Informatika di **Universitas Jenderal Soedirman** yang meminat
 * **Data Classification & Summarization Using IBM Granite** – IBM SkillsBuild (Aug 2024).
 * **Web Development (SDS 2025)** – BEM Universitas Jenderal Soedirman.
 
----
 -->
+---
 
 ### 📊 GitHub Stats
 
@@ -72,6 +72,7 @@ Seorang mahasiswa Informatika di **Universitas Jenderal Soedirman** yang meminat
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=najmifaza&show_icons=true&theme=tokyonight" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=najmifaza&layout=compact&theme=tokyonight" height="165" alt="Top Langs" />
 </p>
+
 ---
 
 ### 📫 Get In Touch
