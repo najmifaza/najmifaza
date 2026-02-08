@@ -53,11 +53,15 @@ Seorang mahasiswa Informatika di **Universitas Jenderal Soedirman** yang meminat
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=najmifaza&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmifaza&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+</p> -->
 
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=najmifaza&show_icons=true&theme=tokyonight" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=najmifaza&layout=compact&theme=tokyonight" height="165" alt="Top Langs" />
+</p>
 ---
 
 ### 📫 Get In Touch
