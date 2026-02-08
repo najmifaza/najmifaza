@@ -1,7 +1,16 @@
 # 💫 About Me
 
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=font=Montserrat&weight=900&size=24&pause=1000&color=3178C6&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Najmi+Faza;Web+Developer;Informatics+Student;EdTech+Enthusiast" alt="Typing SVG" /> -->
+  <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=24&pause=1000&color=F7F7F7&width=435&height=70&multiline=true&lines=Hi+There+👋🏻,+Im+Najmi+Faza;Informatics+Student;Web+Developer;Tech+Enthusiast" alt="Typing SVG" /> -->
+
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=24&color=F7F7F7&repeat=false&width=200&lines=Hi+There+👋🏻,+Im" alt="Fixed Part" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=24&pause=1000&color=F7F7F7&width=320&lines=Najmi+Faza;Informatics+Student;Web+Developer;Tech+Enthusiast" alt="Dynamic Part" />
+</p> -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=font=Montserrat&weight=600&size=24&pause=1000&color=3178C6&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Najmi+Faza;Web+Developer;Informatics+Student;EdTech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=24&duration=2500&pause=1000&color=F7F7F7&repeat=false&width=260&lines=Hi+There+👋🏻,+Im" alt="Fixed Part" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=24&pause=1500&color=F7F7F7&width=435&lines=;Najmi+Faza;Informatics+Student;Web+Developer;Tech+Enthusiast" alt="Dynamic Part" />
 </p>
 
 Seorang mahasiswa Informatika di **Universitas Jenderal Soedirman** yang meminati pengembangan sistem yang memberi dampak sosial dan memberdayakan pendidikan. Berpengalaman dalam pengembangan web (Web Development), produksi konten digital, dan operasional media institusi.
