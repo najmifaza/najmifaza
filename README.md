@@ -28,7 +28,7 @@ Seorang mahasiswa Informatika di **Universitas Jenderal Soedirman** yang meminat
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-**CMS & Design Tools**
+<!--**CMS & Design Tools**
 * **CMS & E-Commerce:** WordPress, Elementor, WooCommerce.
 * **Design & Editing:** Adobe Photoshop, Premiere Pro, Lightroom, CorelDRAW.
 
@@ -50,6 +50,7 @@ Seorang mahasiswa Informatika di **Universitas Jenderal Soedirman** yang meminat
 * **Web Development (SDS 2025)** – BEM Universitas Jenderal Soedirman.
 
 ---
+-->
 
 ### 📊 GitHub Stats
 
